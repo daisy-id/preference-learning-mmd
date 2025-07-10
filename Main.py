@@ -354,7 +354,6 @@ for i in range(iterations+1):
     CorrectOfTestSet_history.append((i, CorrectOfTestSet))
     SumCorrectOfTestSet_history.append((i, SumCorrectOfTestSet/mOfTestSet))
 
-    # 保存为 pickle 的 .pkl文件
     with open("parameter_history.pkl", "wb") as f:
         pickle.dump(parameter_history, f)
     with open("MembershipMatrixOfTrainSet_history.pkl", "wb") as f:
@@ -362,7 +361,6 @@ for i in range(iterations+1):
     with open("MembershipMatrixOfTestSet_history.pkl", "wb") as f:
         pickle.dump(MembershipMatrixOfTestSet_history, f)
 
-    # 保存为 NumPy 的 .npy 文件
     np.save("loss_history.npy", loss_history)
 
     np.save("CorrectOfTrainSet_history.npy", CorrectOfTrainSet_history)
