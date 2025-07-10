@@ -1,0 +1,20 @@
+Academic Research License with Intellectual Property Protection
+
+Copyright (c) 2025 The Developer(s)
+All rights reserved.
+
+Permission is hereby granted to use, copy, and modify this dataset and source code **solely for non-commercial academic research purposes**, subject to the following conditions:
+
+1. **Non-commercial use only**:  
+   Use of this work for commercial purposes is strictly prohibited. This includes but is not limited to commercial product development, integration into proprietary systems, and service offerings.
+
+2. **No patent or copyright registration**:  
+   You may not use this work, in whole or in part, to file for patents, software copyrights, or any form of intellectual property protection, whether domestic or international.
+
+3. **Attribution required**:  
+   Any publications, preprints, or academic materials using this work must cite the original author(s) and reference the related manuscript (if applicable).
+
+4. **No warranty**:  
+   This work is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+For permission requests beyond academic use, please contact the developer(s).
