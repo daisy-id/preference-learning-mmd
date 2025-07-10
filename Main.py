@@ -37,7 +37,7 @@ GammaOfLinguisticValue = [6, 3]
 q = 4
 ClassValueBreakpoint = [4, 3, 2, 1]
 
-# 读取Excel文件，并转为数组
+
 base_path = './Data'
 
 TrainSet_filename = 'TrainSet_normalized.xlsx'
